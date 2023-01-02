@@ -6,6 +6,8 @@ BOX86 WINE 7.11
 tutorial use this tool :
 https://youtu.be/RMwP9hBSliA
 
-use armf architecture on your Linux deploy !!
+use armhf architecture on your Linux deploy !!
+
+with software render
 
 
