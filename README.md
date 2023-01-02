@@ -3,4 +3,9 @@ Auto installer box86 with wine for Linux deploy . Need root and busybox
 
 BOX86 WINE 7.11
 
- use armf architecture on your Linux deploy !!
+tutorial use this tool :
+https://youtu.be/RMwP9hBSliA
+
+use armf architecture on your Linux deploy !!
+
+
